@@ -1,0 +1,139 @@
+@import url(material.min.css);
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #cecece;
+  font-size: medium; }
+
+.vr-color-background-third {
+  background-color: #aaccff; }
+
+.vr-color-text-light {
+  color: white !important; }
+
+.vr-color-text-dark {
+  color: #212121; }
+
+.vr-color-text-third, .vr-color-text-hover:hover {
+  color: #aaccff !important; }
+
+.vr-color-background-dark {
+  background-color: #313131; }
+
+.vr-color-background-light {
+  background-color: #cecece; }
+
+.vr-margin {
+  margin-top: 5px !important;
+  margin-bottom: 10px !important; }
+
+.vr-common-background, #vr-java, #vr-dev-arch, #vr-front-back, #vr-js, #vr-rdbms, #vr-nosql, #vr-architecture-radar, #vr-architecture-legend, .vr-common-icon, .vr-icon-twitter, .vr-icon-mail, .vr-icon-github, .vr-icon-linkedin {
+  background-repeat: no-repeat;
+  background-position: center; }
+
+.vr-border {
+  border-style: solid;
+  border-width: 2;
+  border-color: red; }
+
+.vr-border-top-light {
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: white; }
+
+.vr-border-top-dark {
+  border-top-style: dotted;
+  border-top-width: 1px;
+  border-top-color: #212121; }
+
+.vr-card {
+  background-color: white;
+  box-shadow: 1px 1px 2px #646464;
+  color: #212121;
+  border-radius: 5px; }
+
+.vr-card-dark {
+  background-color: #313131;
+  box-shadow: 1px 1px 2px #646464;
+  color: white;
+  border-radius: 5px; }
+
+.vr-timeline, .vr-timeline-xp-2015, .vr-timeline-xp-2009, .vr-timeline-xp-2007, .vr-timeline-2007, .vr-timeline-2002, .vr-timeline-2001, .vr-timeline-2000, .vr-timeline-1999, .vr-timeline-1995 {
+  background-repeat: no-repeat;
+  background-position: 50% 50%; }
+
+.vr-timeline-xp-2015 {
+  background-image: url("../img/timeline-xp-2015.svg"); }
+
+.vr-timeline-xp-2009 {
+  background-image: url("../img/timeline-xp-2009.svg"); }
+
+.vr-timeline-xp-2007 {
+  background-image: url("../img/timeline-xp-2007.svg"); }
+
+.vr-timeline-2007 {
+  background-image: url("../img/timeline-2007.svg"); }
+
+.vr-timeline-2002 {
+  background-image: url("../img/timeline-2002.svg"); }
+
+.vr-timeline-2001 {
+  background-image: url("../img/timeline-2001.svg"); }
+
+.vr-timeline-2000 {
+  background-image: url("../img/timeline-2000.svg"); }
+
+.vr-timeline-1999 {
+  background-image: url("../img/timeline-1999.svg"); }
+
+.vr-timeline-1995 {
+  background-image: url("../img/timeline-1995.svg"); }
+
+#vr-java {
+  background-image: url("../img/java.svg"); }
+
+#vr-dev-arch {
+  background-image: url("../img/dev-arch.svg"); }
+
+#vr-front-back {
+  background-image: url("../img/front-back.svg"); }
+
+#vr-js {
+  background-image: url("../img/js.svg"); }
+
+#vr-rdbms {
+  background-image: url("../img/rdbms.svg"); }
+
+#vr-nosql {
+  background-image: url("../img/nosql.svg"); }
+
+#vr-architecture-radar {
+  background-image: url("../img/architecture-radar.svg"); }
+
+#vr-architecture-legend {
+  background-image: url("../img/architecture-legend.svg"); }
+
+.vr-common-icon, .vr-icon-twitter, .vr-icon-mail, .vr-icon-github, .vr-icon-linkedin {
+  background-color: white;
+  height: 100%;
+  width: 100%;
+  margin-left: 5px !important; }
+
+.vr-common-icon:hover, .vr-icon-twitter:hover, .vr-icon-mail:hover, .vr-icon-github:hover, .vr-icon-linkedin:hover {
+  background-color: #aaccff; }
+
+.vr-icon-twitter {
+  background-image: url(../img/iconmonstr-twitter-4-icon.svg) !important; }
+
+.vr-icon-mail {
+  background-image: url(../img/iconmonstr-email-9-icon.svg) !important; }
+
+.vr-icon-github {
+  background-image: url(../img/iconmonstr-github-icon.svg) !important; }
+
+.vr-icon-linkedin {
+  background-image: url(../img/iconmonstr-linkedin-4-icon.svg) !important; }
+
+.vr-small-padding {
+  padding: 5px !important; }
+
+/*# sourceMappingURL=vrvertx3.css.map */

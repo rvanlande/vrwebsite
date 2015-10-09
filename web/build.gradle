@@ -1,0 +1,35 @@
+apply plugin: 'maven-publish'
+
+dependencies {
+    compile group: 'io.vertx', name: 'vertx-core', version: '3.0.0'
+    compile group: 'io.vertx', name: 'vertx-web', version: '3.0.0'
+}
+
+task compileSass(type: Exec) {
+    workingDir './src/main/resources/webroot/ui'
+    commandLine 'cmd', '/c', 'sass sass/vrvertx3.scss css/vrvertx3.css'
+}
+
+task compileTag(type: Exec) {
+    workingDir './src/main/resources/webroot/ui'
+    commandLine 'cmd', '/c', 'riot tag app/app-tags.js'
+}
+
+// ATTENTION: génère un pom avec les dépendances en runtime => lancement "vertx run maven" ne gère pas les dépendances au runtime
+//publishing {
+//    publications {
+//        mavenJava(MavenPublication) {
+//            from components.java
+//        }
+//    }
+//}
+
+uploadArchives {
+    repositories {
+        mavenDeployer {
+            repository(url: "file://C:/Users/RV/.m2/repository")
+        }
+    }
+}
+
+

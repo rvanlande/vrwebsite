@@ -1,0 +1,24 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 200 199.88">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-300,-372.42468)">
+  <g transform="translate(-34.28125,106.36218)">
+   <path fill-rule="nonzero" fill="#abccff" d="m428.97,266.06c-52.763,2.7569-94.688,46.425-94.688,99.875,0,8.0911,0.96729,15.966,2.7812,23.5l25.44-7.66c-1.1213-5.1033-1.7188-10.404-1.7188-15.844,0-38.802,30.081-70.552,68.188-73.281v-26.594z"/>
+   <path fill-rule="nonzero" fill="#333" d="m439.59,266.06,0,26.594c38.107,2.7289,68.188,34.479,68.188,73.281,0,40.593-32.907,73.5-73.5,73.5-30.861,0-57.262-19.012-68.156-45.969l-25.469,7.6562c14.241,37.861,50.785,64.812,93.625,64.812,55.228,0,100-44.772,100-100,0-53.45-41.924-97.118-94.688-99.875z"/>
+   <path d="m361.43,413.08c0,27.614-21.826,50-48.75,50s-48.75-22.386-48.75-50v-0.00001l48.75,0.00001z" fill-rule="nonzero" transform="matrix(1.3333333,0,0,1.3344402,17.376516,-184.12971)" fill="#333"/>
+   <path d="m361.43,413.08c0,27.614-21.826,50-48.75,50s-48.75-22.386-48.75-50v-0.00001l48.75,0.00001z" fill-rule="nonzero" transform="matrix(1.3333333,0,0,-1.3344402,17.376516,916.12971)" fill="#ACF"/>
+   <text style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" transform="scale(0.99958517,1.000415)" font-style="normal" font-stretch="normal" xml:space="preserve" line-height="125%" font-size="18.67441368px" font-variant="normal" y="385.57095" x="408.09" font-family="Lucida Console" fill="#aaccff"><tspan y="385.57095" x="408.09" font-weight="normal" fill="#abccff">RDBMS</tspan></text>
+   <text style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" transform="scale(0.99958517,1.000415)" font-style="normal" font-stretch="normal" xml:space="preserve" line-height="125%" font-size="18.67441368px" font-variant="normal" y="320.37964" x="409.71277" font-family="Lucida Console" fill="#333333"><tspan y="320.37964" x="409.71277" font-weight="normal">NoSql</tspan></text>
+   <text style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" font-variant="normal" font-size="10px" font-stretch="normal" line-height="125%" font-style="normal" y="335.15387" x="436.7341" font-family="Roboto" xml:space="preserve" fill="#333333"><tspan style="text-anchor:middle;text-align:center;" y="335.15387" x="436.7341">Titan/Cassandra</tspan><tspan style="text-anchor:middle;text-align:center;" y="347.65387" x="436.7341">Neo4J</tspan><tspan style="text-anchor:middle;text-align:center;" y="360.15387" x="436.7341">MongoDB</tspan></text>
+   <text style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" font-variant="normal" font-size="10px" font-stretch="normal" line-height="125%" font-style="normal" y="398.61133" x="436.24826" font-family="Roboto" xml:space="preserve" fill="#abccff"><tspan style="text-anchor:middle;text-align:center;" y="398.61133" x="436.24826">SQL</tspan><tspan style="text-anchor:middle;text-align:center;" y="411.11133" x="436.24826">Oracle</tspan><tspan style="text-anchor:middle;text-align:center;" y="423.61133" x="436.24826">PL/SQL</tspan></text>
+  </g>
+ </g>
+</svg>

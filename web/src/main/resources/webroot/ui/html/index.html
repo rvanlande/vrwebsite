@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <title>Renaud Vanlande</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:100,300,500,700" type="text/css">
+    <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.2/material.blue_grey-light_blue.min.css"/>
+    <link rel="stylesheet" href="ui/css/vrvertx3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+</head>
+<body class="">
+
+<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+
+    <view-header></view-header>
+    <view-drawer></view-drawer>
+
+    <main class="mdl-layout__content">
+
+        <div class="mdl-grid">
+
+            <view-about></view-about>
+            <div class="mdl-cell mdl-cell--9-col mdl-cell--5-col-tablet mdl-cell--4-col-phone mdl-grid mdl-grid--no-spacing">
+
+                <view-skills></view-skills>
+                <view-experience></view-experience>
+                <view-education></view-education>
+                <view-skillsdetails></view-skillsdetails>
+
+            </div>
+        </div>
+
+        <view-footer></view-footer>
+    </main>
+</div>
+
+<script src="ui/lib/material.min.js"></script>
+<script src="ui/lib/riot.min.js"></script>
+<script src="http://cdn.jsdelivr.net/sockjs/0.3.4/sockjs.min.js"></script>
+<script src="ui/lib/vertxbus-3.0.0.js"></script>
+<script src="ui/app/app-controller.js"></script>
+<script src="ui/app/app-model.js"></script>
+<script src="ui/app/app-tags.js"></script>
+<script src="ui/app/app-server.js"></script>
+<script src="ui/app/app.js"></script>
+</body>
+</html>

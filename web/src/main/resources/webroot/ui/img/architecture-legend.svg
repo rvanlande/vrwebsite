@@ -1,0 +1,41 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="100%" width="100%" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 200 199.99994">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-269.75126,-531.18673)">
+  <text style="letter-spacing:0px;text-anchor:start;word-spacing:0px;text-align:start;" font-weight="bold" transform="scale(1.013797,0.98639079)" font-style="normal" line-height="125%" font-stretch="normal" xml:space="preserve" font-size="12.83044624px" font-variant="normal" y="548.2887" x="299.45062" font-family="Roboto" fill="#333333"><tspan style="text-anchor:start;text-align:start;" y="548.2887" x="299.45062">SOA<tspan style="text-anchor:start;text-align:start;" font-weight="bold" font-size="12.83044624px" font-style="normal" font-stretch="normal" font-variant="normal" font-family="Roboto Bk" fill="#333333"> / </tspan>MicroServices  </tspan><tspan style="text-anchor:start;text-align:start;" y="564.32678" x="299.45062">Distributed Architecture</tspan></text>
+  <text style="letter-spacing:0px;text-anchor:start;word-spacing:0px;text-align:start;" font-weight="normal" transform="scale(1.013797,0.98639079)" font-style="normal" line-height="125%" font-stretch="normal" xml:space="preserve" font-size="12.83044624px" font-variant="normal" y="591.82562" x="299.72629" font-family="Roboto" fill="#333333"><tspan style="text-anchor:start;text-align:start;" y="591.82562" x="299.72629"><tspan font-weight="bold">HTTP</tspan> / TCP/IP  </tspan><tspan style="text-anchor:start;text-align:start;" y="607.86371" x="299.72629"><tspan font-weight="bold">WebSocket</tspan> / RPC / REST</tspan></text>
+  <text style="letter-spacing:0px;text-anchor:start;word-spacing:0px;text-align:start;" font-weight="normal" transform="scale(1.013797,0.98639079)" font-style="normal" line-height="125%" font-stretch="normal" xml:space="preserve" font-variant="normal" y="635.38757" x="299.92676" font-family="Roboto" fill="#333333"><tspan style="text-anchor:start;text-align:start;" font-weight="normal" font-size="12.83044624px" font-style="normal" font-stretch="normal" font-variant="normal" y="635.38757" x="299.92676" font-family="Roboto"><tspan font-weight="bold">Security</tspan> (SSL, cryptography)</tspan><tspan style="text-anchor:start;text-align:start;" font-size="12.83044624px" y="651.42566" x="299.92676"><tspan font-weight="bold">Authentication</tspan> (SSO, LDAP) </tspan><tspan style="text-anchor:start;text-align:start;" font-size="10.69203854px" y="667.46368" x="299.92676"/></text>
+  <text style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" transform="scale(1.013797,0.98639079)" font-style="normal" font-stretch="normal" xml:space="preserve" line-height="125%" font-variant="normal" y="687.37268" x="299.23135" font-family="Roboto" fill="#333333"><tspan style="text-anchor:middle;text-align:center;" font-size="12.83044624px" y="687.37268" x="299.23135"><tspan style="text-anchor:start;text-align:start;" font-weight="normal" font-size="12.83044624px" font-style="normal" font-stretch="normal" font-variant="normal" font-family="Roboto" fill="#333333"><tspan font-weight="bold">BigData</tspan> : </tspan><tspan style="text-anchor:start;text-align:start;" font-family="Roboto" font-style="normal" font-stretch="normal" font-variant="normal" font-weight="normal">Spark / NoSq</tspan>l </tspan><tspan style="text-anchor:middle;text-align:center;" font-size="10.69203854px" y="703.41077" x="299.23135"/></text>
+  <text style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" transform="scale(1.013797,0.98639079)" font-style="normal" font-stretch="normal" xml:space="preserve" line-height="125%" font-variant="normal" y="724.45367" x="299.40051" font-family="Roboto" fill="#333333"><tspan style="text-anchor:start;text-align:start;" font-size="12.83044624px" y="724.45367" x="299.40051"><tspan font-weight="bold">Cache</tspan> : Redis / MapDB</tspan><tspan style="text-anchor:start;text-align:start;" font-size="12.83044624px" y="740.49176" x="299.40051">EhCache /Hazelcast</tspan><tspan style="text-anchor:middle;text-align:center;" font-size="10.69203854px" y="756.52979" x="299.40051"/><tspan style="text-anchor:middle;text-align:center;" font-size="10.69203854px" y="772.56787" x="299.40051"/></text>
+  <g transform="matrix(1.1539246,0,0,1.1227303,115.5796,-49.889085)">
+   <path d="m212.5,512.36c0,4.1421-3.5817,7.5-8,7.5s-8-3.3579-8-7.5,3.5817-7.5,8-7.5,8,3.3579,8,7.5z" fill-rule="nonzero" transform="matrix(1.1742054,0,0,1.2524857,-97.124998,-113.36414)" fill="#333"/>
+   <text style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" xml:space="preserve" transform="scale(0.81768482,1.2229651)" font-stretch="normal" line-height="125%" font-size="12px" font-variant="normal" y="436.36087" x="172.23265" font-family="Roboto" font-style="normal" fill="#abccff"><tspan font-size="12px" y="436.36087" x="172.23265" fill="#abccff">1</tspan></text>
+  </g>
+  <g transform="matrix(1.1539246,0,0,1.1227303,-134.82204,-1.7959653)">
+   <path d="m212.5,512.36c0,4.1421-3.5817,7.5-8,7.5s-8-3.3579-8-7.5,3.5817-7.5,8-7.5,8,3.3579,8,7.5z" fill-rule="nonzero" transform="matrix(1.1742054,0,0,1.2524857,119.875,-116.86412)" fill="#333"/>
+   <text style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" xml:space="preserve" transform="scale(0.81768482,1.2229651)" font-stretch="normal" line-height="125%" font-size="12px" font-variant="normal" y="433.49899" x="436.78992" font-family="Roboto" font-style="normal" fill="#abccff"><tspan font-size="12px" y="433.49899" x="436.78992" fill="#abccff">2</tspan></text>
+  </g>
+  <g transform="matrix(1.0839556,0,0,1.0546528,59.46388,-133.35895)">
+   <path d="m212.5,512.36c0,4.1421-3.5817,7.5-8,7.5s-8-3.3579-8-7.5,3.5817-7.5,8-7.5,8,3.3579,8,7.5z" fill-rule="nonzero" transform="matrix(1.25,0,0,1.3333333,-51.625005,42.212636)" fill="#333"/>
+   <text style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" xml:space="preserve" transform="scale(0.81768483,1.2229651)" font-stretch="normal" line-height="125%" font-size="12.77459621px" font-variant="normal" y="597.72412" x="245.78288" font-family="Roboto" font-style="normal" fill="#abccff"><tspan font-size="12.77459621px" y="597.72412" x="245.78288" fill="#abccff">3</tspan></text>
+  </g>
+  <g transform="matrix(1.0839556,0,0,1.0546528,190.62251,-89.195358)">
+   <path d="m212.5,512.36c0,4.1421-3.5817,7.5-8,7.5s-8-3.3579-8-7.5,3.5817-7.5,8-7.5,8,3.3579,8,7.5z" fill-rule="nonzero" transform="matrix(1.25,0,0,1.3333333,-172.625,42.212623)" fill="#333"/>
+   <text style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" xml:space="preserve" transform="scale(0.81768483,1.2229651)" font-stretch="normal" line-height="125%" font-size="12.77459621px" font-variant="normal" y="597.72412" x="97.804108" font-family="Roboto" font-style="normal" fill="#abccff"><tspan font-size="12.77459621px" y="597.72412" x="97.804108" fill="#abccff">4</tspan></text>
+  </g>
+  <g transform="matrix(1.0839556,0,0,1.0546528,230.18689,83.635869)">
+   <g transform="translate(-36.5,-122)">
+    <path d="m212.5,512.36c0,4.1421-3.5817,7.5-8,7.5s-8-3.3579-8-7.5,3.5817-7.5,8-7.5,8,3.3579,8,7.5z" fill-rule="nonzero" transform="matrix(1.25,0,0,1.3333333,-172.625,42.212623)" fill="#333"/>
+    <text style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" transform="scale(0.81768483,1.2229651)" font-style="normal" font-stretch="normal" xml:space="preserve" line-height="125%" font-size="12.77459621px" font-variant="normal" y="597.72412" x="97.804108" font-family="Roboto" fill="#abccff"><tspan font-size="12.77459621px" y="597.72412" x="97.804108" fill="#abccff">5</tspan></text>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" width="70" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <rect id="rect2987" fill-rule="nonzero" height="100" width="2.919" y="0.14957" x="8.4396" fill="#333"/>
+ <g id="g2989" transform="translate(0,-4)">
+  <path id="path2985" fill-rule="nonzero" fill="#333" d="m20,18.947a10,9.9999,0,0,1,-20,0,10,9.9999,0,1,1,20,0z"/>
+  <path id="path2990" fill-rule="nonzero" fill="#FFF" d="m17.002,18.911a7.05,7.0502,0,0,1,-14.1,0,7.05,7.0502,0,1,1,14.1,0z"/>
+  <g id="g3000" transform="translate(-1.86825e-4,5.4959641)">
+   <text id="text2996" font-size="16px" font-family="Roboto" xml:space="preserve" style="letter-spacing:0px;word-spacing:0px;" line-height="125%" font-stretch="normal" font-variant="normal" y="21.090834" x="24.748739" font-weight="normal" font-style="normal" fill="#000000"><tspan id="tspan2998" font-size="20px" y="21.090834" x="24.748739" font-weight="300" fill="#333333">1995</tspan></text>
+  </g>
+ </g>
+</svg>

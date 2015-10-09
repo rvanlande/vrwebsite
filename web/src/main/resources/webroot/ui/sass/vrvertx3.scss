@@ -1,0 +1,231 @@
+@import "material.min.css";
+
+$font: 'Roboto', sans-serif;
+$color-background-dark: rgb(49, 49, 49);
+$color-background-light: rgb(206, 206, 206);
+$color-background-third : rgb(170, 204, 255);
+$color-text-light: rgb(255, 255, 255);
+$color-text-dark: rgb(33, 33, 33);
+$color-text-third: rgb(170, 204, 255);
+
+body {
+  font-family: $font;
+  background-color: $color-background-light;
+  font-size: medium;
+}
+
+// ~ Color -------------------------------------------------------------------------------------------------------------------------------------------
+
+.vr-color-background-third {
+  background-color: $color-background-third;
+}
+
+.vr-color-text-light {
+  color: $color-text-light !important;
+}
+
+.vr-color-text-dark {
+  color: $color-text-dark;
+}
+
+.vr-color-text-third {
+  color : $color-text-third !important;
+}
+
+.vr-color-background-dark {
+  background-color: $color-background-dark;
+}
+
+.vr-color-background-light {
+  background-color: $color-background-light;
+}
+
+// ~ Common ------------------------------------------------------------------------------------------------------------------------------------------
+
+
+.vr-margin {
+  margin-top: 5px !important;
+  margin-bottom: 10px !important;
+}
+
+.vr-common-background {
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+// ~ Style -------------------------------------------------------------------------------------------------------------------------------------------
+
+
+.vr-border {
+  border-style: solid;
+  border-width: 2;
+  border-color: red;
+}
+
+.vr-border-top-light {
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: $color-text-light;
+}
+
+.vr-border-top-dark {
+  border-top-style: dotted;
+  border-top-width: 1px;
+  border-top-color: $color-text-dark;
+}
+
+.vr-card {
+  background-color: white;
+  box-shadow: 1px 1px 2px rgb(100, 100, 100);
+  //border-left-style: solid;
+  //border-left-width: 5px;
+  //border-left-color: $color-background-dark;
+  color: $color-text-dark;
+  border-radius: 5px;
+}
+
+.vr-card-dark {
+  background-color: $color-background-dark;
+  box-shadow: 1px 1px 2px rgb(100, 100, 100);
+  color: $color-text-light;
+  border-radius: 5px;
+}
+
+.vr-timeline {
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+.vr-timeline-xp-2015 {
+  @extend .vr-timeline;
+  background-image: url("../img/timeline-xp-2015.svg");
+}
+
+.vr-timeline-xp-2009 {
+  @extend .vr-timeline;
+  background-image: url("../img/timeline-xp-2009.svg");
+}
+
+.vr-timeline-xp-2007 {
+  @extend .vr-timeline;
+  background-image: url("../img/timeline-xp-2007.svg");
+}
+
+.vr-timeline-2007 {
+  @extend .vr-timeline;
+  background-image: url("../img/timeline-2007.svg");
+}
+
+.vr-timeline-2002 {
+  @extend .vr-timeline;
+  background-image: url("../img/timeline-2002.svg");
+}
+
+.vr-timeline-2001 {
+  @extend .vr-timeline;
+  background-image: url("../img/timeline-2001.svg");
+}
+
+.vr-timeline-2000 {
+  @extend .vr-timeline;
+  background-image: url("../img/timeline-2000.svg");
+}
+
+.vr-timeline-1999 {
+  @extend .vr-timeline;
+  background-image: url("../img/timeline-1999.svg");
+}
+
+.vr-timeline-1995 {
+  @extend .vr-timeline;
+  background-image: url("../img/timeline-1995.svg");
+}
+
+
+#vr-java {
+  @extend .vr-common-background;
+  background-image: url("../img/java.svg");
+}
+
+#vr-dev-arch {
+  @extend .vr-common-background;
+  background-image: url("../img/dev-arch.svg");
+}
+
+#vr-front-back {
+  @extend .vr-common-background;
+  background-image: url("../img/front-back.svg");
+}
+
+#vr-js {
+  @extend .vr-common-background;
+  background-image: url("../img/js.svg");
+}
+
+#vr-rdbms {
+  @extend .vr-common-background;
+  background-image: url("../img/rdbms.svg");
+}
+
+#vr-nosql {
+  @extend .vr-common-background;
+  background-image: url("../img/nosql.svg");
+}
+
+#vr-architecture-radar {
+  @extend .vr-common-background;
+  background-image: url("../img/architecture-radar.svg");
+}
+
+#vr-architecture-legend {
+  @extend .vr-common-background;
+  background-image: url("../img/architecture-legend.svg");
+}
+
+// ~ icons -------------------------------------------------------------------------------------------------------------------------------------------
+
+.vr-common-icon {
+  @extend .vr-common-background;
+  background-color: white;
+  height: 100%;
+  width: 100%;
+  margin-left: 5px !important;
+}
+
+.vr-common-icon:hover {
+  background-color: $color-background-third;
+}
+
+.vr-icon-twitter {
+  @extend .vr-common-icon;
+  background-image: url(../img/iconmonstr-twitter-4-icon.svg) !important;
+}
+
+.vr-icon-mail {
+  @extend .vr-common-icon;
+  background-image: url(../img/iconmonstr-email-9-icon.svg) !important;
+}
+
+.vr-icon-github {
+  @extend .vr-common-icon;
+  background-image: url(../img/iconmonstr-github-icon.svg) !important;
+}
+
+.vr-icon-linkedin {
+  @extend .vr-common-icon;
+  background-image: url(../img/iconmonstr-linkedin-4-icon.svg) !important;
+}
+
+.vr-small-padding {
+  padding: 5px !important;
+}
+
+.vr-color-text-hover:hover {
+  @extend .vr-color-text-third;
+}
+
+
+
+
+
+

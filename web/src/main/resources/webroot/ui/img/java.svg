@@ -1,0 +1,18 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="100%" width="100%" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 200 200">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-61.375,-26.65625)">
+  <path fill-rule="nonzero" fill="#abccff" d="m161.38,26.656,0,23.062c42.483,0,76.938,34.454,76.938,76.938,0,42.483-34.454,76.906-76.938,76.906-42.483,0-76.906-34.423-76.906-76.906,0-33.528,21.449-62.029,51.375-72.562l-7.69-21.786c-40.019,14.092-66.785,51.92-66.785,94.348,0,55.228,44.772,100,100,100s100-44.772,100-100-44.772-100-100-100z"/>
+  <path d="m138.39,94.232c0,33.752-24.422,61.114-54.548,61.114s-54.548-27.362-54.548-61.114,24.422-61.114,54.548-61.114,54.548,27.362,54.548,61.114z" fill-rule="nonzero" transform="matrix(1.2831304,0,0,1.1452735,53.793935,18.734276)" fill="#333"/>
+  <text style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" font-variant="normal" font-size="46.28166199px" font-stretch="normal" line-height="125%" font-style="normal" y="116.32881" x="104.41556" font-family="Lucida Console" xml:space="preserve" fill="#abccff"><tspan font-weight="normal" font-style="normal" font-stretch="normal" font-variant="normal" y="116.32881" x="104.41556" font-family="Roboto" fill="#abccff">JAVA</tspan></text>
+  <text style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" font-variant="normal" font-size="14px" font-stretch="normal" line-height="125%" font-style="normal" y="136.29086" x="159.58827" font-family="Roboto" xml:space="preserve" fill="#abccff"><tspan style="text-anchor:middle;text-align:center;" y="136.29086" x="161.3246">JEE </tspan><tspan style="text-anchor:middle;text-align:center;" y="153.79086" x="159.58827">Spring</tspan><tspan style="text-anchor:middle;text-align:center;" y="171.29086" x="159.58827">Hibernate</tspan></text>
+ </g>
+</svg>

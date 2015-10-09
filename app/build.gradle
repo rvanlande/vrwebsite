@@ -1,0 +1,21 @@
+dependencies {
+    compile group: 'io.vertx', name: 'vertx-core', version: '3.0.0'
+    compile group: 'org.elasticsearch', name: 'elasticsearch', version: '1.7.1'
+}
+
+// ATTENTION: génère un pom avec les dépendances en runtime => lancement "vertx run maven" ne gère pas les dépendances au runtime
+//publishing {
+//    publications {
+//        mavenJava(MavenPublication) {
+//            from components.java
+//        }
+//    }
+//}
+
+uploadArchives {
+    repositories {
+        mavenDeployer {
+            repository(url: "file://C:/Users/RV/.m2/repository")
+        }
+    }
+}

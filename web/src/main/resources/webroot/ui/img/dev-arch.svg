@@ -1,0 +1,22 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 200 200">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-275,-432.36218)">
+  <g transform="translate(-14.28569,414.47829)">
+   <path d="m384.12,17.885c-52.837,2.6805-94.833,46.369-94.833,99.916,0,31.679,14.715,59.893,37.667,78.232l16-21.351c-16.483-13.458-27-33.931-27-56.881,0-38.855,30.161-70.617,68.333-73.186v-26.731c-0.0549,0.0027-0.11173-0.0027-0.16667,0z" fill-rule="nonzero" fill="#abccff"/>
+   <path d="m394.29,17.885,0,26.731c38.173,2.5682,68.333,34.33,68.333,73.186,0,40.534-32.832,73.394-73.333,73.394-13.976,0-27.051-3.9262-38.167-10.717l-16.042,21.393c15.624,10.114,34.217,16.013,54.208,16.013,55.228,0,100-44.809,100-100.08,0-53.603-42.086-97.318-95-99.916z" fill-rule="nonzero" fill="#333"/>
+   <path d="m361.43,413.08c0,27.614-21.826,50-48.75,50s-48.75-22.386-48.75-50v-0.00001l48.75,0.00001z" fill-rule="nonzero" transform="matrix(1.3333333,0,0,1.3344402,-27.619042,-431.53094)" fill="#333"/>
+   <path d="m361.43,413.08c0,27.614-21.826,50-48.75,50s-48.75-22.386-48.75-50v-0.00001l48.75,0.00001z" fill-rule="nonzero" transform="matrix(1.3333333,0,0,-1.3344402,-27.619042,668.72848)" fill="#ACF"/>
+   <text style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" transform="scale(0.99958517,1.000415)" font-style="normal" font-stretch="normal" xml:space="preserve" line-height="125%" font-size="18.67441368px" font-variant="normal" y="144.79503" x="343.08163" font-family="Lucida Console" fill="#aaccff"><tspan font-weight="normal" font-style="normal" font-stretch="normal" font-variant="normal" y="144.79503" x="343.08163" font-family="Roboto" fill="#abccff">Developper</tspan></text>
+   <text style="letter-spacing:0px;word-spacing:0px;" font-weight="normal" transform="scale(0.99958517,1.000415)" font-style="normal" font-stretch="normal" xml:space="preserve" line-height="125%" font-size="18.67441368px" font-variant="normal" y="105.43309" x="351.29205" font-family="Lucida Console" fill="#333333"><tspan font-weight="normal" font-style="normal" font-stretch="normal" font-variant="normal" y="105.43309" x="351.29205" font-family="Roboto" fill="#1a1a1a">Architect</tspan></text>
+  </g>
+ </g>
+</svg>

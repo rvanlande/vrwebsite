@@ -1,0 +1,4 @@
+function AppModel() {
+
+    this.lang = {};
+}

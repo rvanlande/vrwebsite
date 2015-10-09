@@ -13,5 +13,7 @@ public class Test {
 	ResourceBundle rb = ResourceBundle.getBundle("lang", Locale.FRENCH);
 	System.out.println(rb.getString("about.citation"));
 
+	// test commit
+
     }
 }
